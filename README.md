@@ -1,4 +1,4 @@
-#EE735 Computer Vision</br>RCV Deep Learning Practice \#1:</br>Multi-class single-label image classification.
+#EE735 Computer Vision</br>RCV Deep Learning Practice \#1:</br>Multi-Class Single-Label Image Classification.
 ## Task 1. Build an initial framework
 This frame work is used as a base for all the DL practices.
 This framework supports 1) **multi-thread data loading**, 2) **data pre-fetching**, and 3) **multi-GPU training**. 
