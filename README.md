@@ -25,8 +25,8 @@ You must fill in the blanks in `ROOT/val.lua`</br>
 Once you have completed the initial framework, make sure you get a **79~80% top-1** accuracy on the validation set with the default parameters. The following two figures show the learning curve. The black curve is for training while the red one is for validation.
 Also, make sure that your data loading time is close to **zero**.</br>
 <p align="center">
-<img src="./doc/loss.PNG" width="320"/>
-<img src="./doc/acc.PNG" width="320"/>
+<img src="./doc/loss.PNG" width="420"/>
+<img src="./doc/acc.PNG" width="420"/>
 </p>
 
 ## Task 2. Take a look at the overfitting problem
