@@ -22,8 +22,12 @@ The evaluator only takes validation mini-batches from the task manager and evalu
 Like the teacher, it is completely separated from a particular task, so once completed, you do not have to touch it anymore.
 You must fill in the blanks in `ROOT/val.lua`</br>
 
-Once you have completed the initial framework, make sure you get a **79~80% top-1** accuracy on the validation set with the default parameters.
+Once you have completed the initial framework, make sure you get a **79~80% top-1** accuracy on the validation set with the default parameters. The following two figures show the learning curve. The black curve is for training while the red one is for validation.
 Also, make sure that your data loading time is close to **zero**.</br>
+<p align="center">
+<img src="./doc/loss.PNG" width="320"/>
+<img src="./doc/acc.PNG" width="320"/>
+</p>
 
 ## Task 2. Take a look at the overfitting problem
 We examine several factors related to overfitting. 
@@ -96,7 +100,7 @@ Explanation of your understanding of each step is **not necessary** but deep dis
 - Task 3) Loss-epoch plot and accuracy-epoch plot for each experiment.</br>
 - Task 4) Loss-epoch plot and accuracy-epoch plot for each experiment.</br>
 
-**Note**, each plot should include both of the training curve and the validation curve.</br>
+**Note**, each plot should include both of the training curve and the validation curve such as the above example plots.</br>
 
 ##Submission
 The due date is November 25, 2016.
