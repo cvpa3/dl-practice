@@ -284,8 +284,6 @@ function task:estimateInputStat(  )
 	
 	-- END BLANK.
 	-------------
-	meanEstimate:div( numBatch )
-	stdEstimate:div( numBatch )
 	return { mean = meanEstimate, std = 0 }
 end
 function task:defineModel(  )
