@@ -1,3 +1,4 @@
+## Notice) The deadline for Practice # 1 extended to November 30th.
 #EE735 Computer Vision</br>RCV Deep Learning Practice \#1:</br>Multi-Class Single-Label Image Classification.
 ## Task 1. Build an initial framework
 This frame work is used as a base for all the DL practices.
@@ -103,7 +104,7 @@ Explanation of your understanding of each step is **not necessary** but deep dis
 **Note**, each plot should include both of the training curve and the validation curve such as the above example plots.</br>
 
 ##Submission
-The due date is November 25, 2016.
+The due date is November 30th, 2016.
 Submit the following attachments to `dgyoo@rcv.kaist.ac.kr`.
 - Source codes: `IDXXXXXXXX.zip`
 - A report: `IDXXXXXXXX.pdf`
