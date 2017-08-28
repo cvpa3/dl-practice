@@ -1,5 +1,5 @@
 ## Notice) The deadline for Practice # 1 extended to November 30th.
-#EE735 Computer Vision</br>RCV Deep Learning Practice \#1:</br>Multi-Class Single-Label Image Classification.
+# EE735 Computer Vision</br>RCV Deep Learning Practice \#1:</br>Multi-Class Single-Label Image Classification.
 ## Task 1. Build an initial framework
 This frame work is used as a base for all the DL practices.
 This framework supports 1) **multi-thread data loading**, 2) **data pre-fetching**, and 3) **multi-GPU training**. 
@@ -82,7 +82,7 @@ It is strongly recommended to install and use a separate debugger created by Fac
 To use this you need to install Facebook Lua library called [fblualib](https://github.com/facebook/fblualib).
 For comfortable debugging, turn off the multi-thread data loading by the option `-numDonkey 0`.
 
-##Open discussion channel
+## Open discussion channel
 You can utilize [Issues](https://github.com/cvpa3/dl-practice/issues) board as a channel for open discussion. 
 Do not feel embarrassed to ask! 
 If you have any questions regarding the PA, post in this board. 
@@ -103,7 +103,7 @@ Explanation of your understanding of each step is **not necessary** but deep dis
 
 **Note**, each plot should include both of the training curve and the validation curve such as the above example plots.</br>
 
-##Submission
+## Submission
 The due date is November 30th, 2016.
 Submit the following attachments to `dgyoo@rcv.kaist.ac.kr`.
 - Source codes: `IDXXXXXXXX.zip`
